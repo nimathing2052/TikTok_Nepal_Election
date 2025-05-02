@@ -112,12 +112,6 @@ export TIKTOK_ACCESS_TOKEN="your_access_token"
 
 ---
 
-## Requirements
-
-See [requirements.txt](./requirements.txt) for a full list.
-
----
-
 ## License
 
 This project is licensed under the **MIT License**.
